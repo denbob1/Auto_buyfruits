@@ -1,0 +1,202 @@
+------------- by denbob1
+-- ซื้อผล
+local args = {
+    [1] = "Cousin",
+    [2] = "Buy"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+
+-- เก็บผล
+local args = {
+    [1] = "StoreFruit",
+    [2] = "Bomb"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+local args = {
+    [1] = "StoreFruit",
+    [2] = "Spike"
+}
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+local args = {
+    [1] = "StoreFruit",
+    [2] = "Chop"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+local args = {
+    [1] = "StoreFruit",
+    [2] = "Spring"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+local args = {
+    [1] = "StoreFruit",
+    [2] = "Kilo"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+local args = {
+    [1] = "StoreFruit",
+    [2] = "Smoke"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+local args = {
+    [1] = "StoreFruit",
+    [2] = "Spin"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+local args = {
+    [1] = "StoreFruit",
+    [2] = "Flame"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+local args = {
+    [1] = "StoreFruit",
+    [2] = "Bird: Falcon"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+local args = {
+    [1] = "StoreFruit",
+    [2] = "Ice"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+local args = {
+    [1] = "StoreFruit",
+    [2] = "Sand"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+local args = {
+    [1] = "StoreFruit",
+    [2] = "Dark"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+local args = {
+    [1] = "StoreFruit",
+    [2] = "Revive"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+local args = {
+    [1] = "StoreFruit",
+    [2] = "Diamond"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+local args = {
+    [1] = "StoreFruit",
+    [2] = "Light-Light"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "StoreFruit",
+    [2] = "Love"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+local args = {
+    [1] = "StoreFruit",
+    [2] = "Rubber"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+local args = {
+    [1] = "StoreFruit",
+    [2] = "Barrier"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+local args = {
+    [1] = "StoreFruit",
+    [2] = "Magma"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+local args = {
+    [1] = "StoreFruit",
+    [2] = "Door"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+local args = {
+    [1] = "StoreFruit",
+    [2] = "Quake"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+local args = {
+    [1] = "StoreFruit",
+    [2] = "Human: Buddha"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+local args = {
+    [1] = "StoreFruit",
+    [2] = "String"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+local args = {
+    [1] = "StoreFruit",
+    [2] = "Brid: Phoenix"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+local args = {
+    [1] = "StoreFruit",
+    [2] = "Rumble"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+local args = {
+    [1] = "StoreFruit",
+    [2] = "Paw"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+local args = {
+    [1] = "StoreFruit",
+    [2] = "Gravity"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+local args = {
+    [1] = "StoreFruit",
+    [2] = "Dough"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+local args = {
+    [1] = "StoreFruit",
+    [2] = "Shadow"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+local args = {
+    [1] = "StoreFruit",
+    [2] = "Venom"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+local args = {
+    [1] = "StoreFruit",
+    [2] = "Control"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
+local args = {
+    [1] = "StoreFruit",
+    [2] = "Control"
+}
+
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer(unpack(args))
